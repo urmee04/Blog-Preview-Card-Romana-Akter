@@ -28,12 +28,13 @@ This project is a solution to the [Frontend Mentor - Blog Preview Card Challenge
 #### How to Use
 
 1. Clone the repository or download the ZIP.
-2. Make sure the folder structure is preserved (`assets/images/`).
-3. Open `index.html` in your browser to view the card.
+2. Be sure to maintain the folder structure (`assets/images/`).
+3. Open `card.html` in your browser to view the card.
 
 - git clone https://github.com/urmee04/Blog-Preview-Card-Romana-Akter
-- cd blog-preview-card
-- open index.html
+- cd Blog-Preview-Card-Romana-Akter
+- cd card.html
+- open card.html
 
 #### Design Specifications
 - Mobile width: 375px
