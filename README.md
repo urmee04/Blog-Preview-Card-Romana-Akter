@@ -31,9 +31,9 @@ This project is a solution to the [Frontend Mentor - Blog Preview Card Challenge
 2. Make sure the folder structure is preserved (`assets/images/`).
 3. Open `index.html` in your browser to view the card.
 
-git clone https://github.com/yourusername/blog-preview-card.git
-cd blog-preview-card
-open index.html
+- git clone https://github.com/yourusername/blog-preview-card.git
+- cd blog-preview-card
+- open index.html
 
 #### Design Specifications
 - Mobile width: 375px
