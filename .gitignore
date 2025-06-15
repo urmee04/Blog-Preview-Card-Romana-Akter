@@ -1,0 +1,25 @@
+# Design tool files (keep the comments if you want)
+#####################################################
+*.sketch
+*.fig
+*.xd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project files to ignore
+README-template.md
+style-guide.md
+text.md
+.prettierignore
+
+# Only these files will be tracked (all others ignored)
+!card.html
+!card.css
+!README.md
+!preview.jpg
+
+# Allow these directories
+!assets/
+!design/
